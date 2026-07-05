@@ -59,30 +59,29 @@ I am a passionate **Full-Stack Web Developer** deeply invested in **Cyber Securi
 
 ---
 
-### 📊 GitHub Stats
+
+### 📊 GitHub Stats & Activity
 
 <details>
 <summary>⚡ Click to expand stats</summary>
 <br />
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <!-- كارت تفاصيل الحساب واللغات -->
+      <!-- كارت تفاصيل الحساب واللغات بارتفاع مضبوط -->
       <td valign="top" width="50%">
-        <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" width="100%" />
+        <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" height="220px" />
       </td>
-      <!-- الرسم البياني المتحرك (تأثير لعبة الثعبان النيون) -->
+      <!-- الرسم البياني للنشاط متناسق تماماً في الارتفاع -->
       <td valign="top" width="50%">
-        <img alt="GitHub Activity Snake Animation" src="https://github-readme-activity-graph.vercel.app/graph?username=kmohamee667-jpg&theme=tokyonight&bg_color=121212" width="100%" />
+        <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kmohamee667-jpg&theme=tokyonight&bg_color=121212" height="220px" />
       </td>
     </tr>
   </table>
-  
-  <br />
-  <!-- أنيميشن مساهمات الجرافيك المتحركة -->
-  <img src="https://raw.githubusercontent.com/kmohamee667-jpg/kmohamee667-jpg/output/github-contribution-grid-snake.svg" alt="GitHub Success Snake" width="100%" />
 </div>
 </details>
+
+---
 
 ---
 
