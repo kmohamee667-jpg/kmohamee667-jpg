@@ -2,7 +2,7 @@
 
 <!-- الهيدر المتحرك بالأمواج البحرية ورسم الاسم -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/ocean-waves.svg" alt="Khalid Mohamed Animated Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/kmohamee667-jpg/kmohamee667-jpg/blob/main/ocean-waves.svg" alt="Khalid Mohamed Animated Header" width="100%" />
 </p>
 
 <p align="center">
