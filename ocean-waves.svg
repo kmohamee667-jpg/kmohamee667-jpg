@@ -1,68 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="100%" height="100%">
   <style>
-    /* خلفية برمجية داكنة */
+    /* خلفية داكنة للـ Terminal */
     .bg {
-      fill: #0a0f1d;
+      fill: #050914;
     }
 
-    /* تأثير نبض شبكة الكود الخلفية */
-    @keyframes gridPulse {
-      0%, 100% { opacity: 0.15; }
-      50% { opacity: 0.3; }
+    /* أنيميشن الأكواد السريعة في الخلفية */
+    @keyframes matrixScroll {
+      0% { transform: translateY(-20px); opacity: 0; }
+      10% { opacity: 0.3; }
+      90% { opacity: 0.3; }
+      100% { transform: translateY(220px); opacity: 0; }
     }
 
-    .code-grid {
-      stroke: #39FF14;
-      stroke-width: 0.5;
-      animation: gridPulse 4s ease-in-out infinite;
-    }
-
-    /* نص برمجي خلفي متحرك */
-    .bg-code-text {
+    .code-stream {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 14px;
+      font-size: 13px;
       fill: #39FF14;
-      opacity: 0.1;
+      opacity: 0;
     }
 
-    /* أنيميشن النص الأساسي */
+    .stream-1 { animation: matrixScroll 2.5s linear infinite; }
+    .stream-2 { animation: matrixScroll 1.8s linear infinite; animation-delay: 0.5s; }
+    .stream-3 { animation: matrixScroll 2.2s linear infinite; animation-delay: 1s; }
+    .stream-4 { animation: matrixScroll 1.5s linear infinite; animation-delay: 0.2s; }
+
+    /* أنيميشن النص الأساسي الترحيبي */
     .name-text-base {
-      font-family: 'Poppins', 'Segoe UI', sans-serif;
-      font-weight: 800;
-      font-size: 52px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 900;
+      font-size: 38px;
       text-anchor: middle;
       dominant-baseline: middle;
-      letter-spacing: 4px;
+      letter-spacing: 3px;
     }
 
     .drawing-layer {
       fill: transparent;
-      stroke: #FFFFFF;
+      stroke: #39FF14;
       stroke-width: 2;
-      stroke-dasharray: 1500;
-      stroke-dashoffset: 1500;
-      animation: drawName 9s ease-in-out infinite;
+      stroke-dasharray: 1200;
+      stroke-dashoffset: 1200;
+      /* تم إبطاء الأنيميشن الكلي إلى 12 ثانية لتأثير رسم مريح وفخم */
+      animation: drawName 12s ease-in-out infinite;
     }
 
     @keyframes drawName {
       0% {
-        stroke-dashoffset: 1500;
+        stroke-dashoffset: 1200;
         fill: transparent;
         stroke-width: 2;
       }
-      45% {
+      /* من 0% إلى 55% يتم رسم حدود الحروف ببطء شديد وتأني */
+      55% {
         stroke-dashoffset: 0;
         fill: transparent;
         stroke-width: 2;
       }
-      55%, 85% {
+      /* من 65% إلى 85% يمتلئ النص باللون الأخضر السيبراني ويستقر تماماً للقراءة */
+      65%, 85% {
         stroke-dashoffset: 0;
-        fill: #FFFFFF;
+        fill: #39FF14;
         stroke-width: 0;
         opacity: 1;
       }
+      /* من 85% إلى 95% يختفي تدريجياً ليعيد كتابة نفسه من جديد */
       95%, 100% {
-        stroke-dashoffset: 1500;
+        stroke-dashoffset: 1200;
         fill: transparent;
         stroke-width: 0;
         opacity: 0;
@@ -73,26 +77,21 @@
   <!-- الخلفية الأساسية -->
   <rect class="bg" width="100%" height="100%"/>
 
-  <!-- مصفوفة خطوط الديجيتال والبرمجة -->
-  <g class="code-grid">
-    <line x1="0" y1="50" x2="800" y2="50" />
-    <line x1="0" y1="100" x2="800" y2="100" />
-    <line x1="0" y1="150" x2="800" y2="150" />
-    <line x1="0" y1="200" x2="800" y2="200" />
-    <line x1="150" y1="0" x2="150" y2="250" />
-    <line x1="300" y1="0" x2="300" y2="250" />
-    <line x1="500" y1="0" x2="500" y2="250" />
-    <line x1="650" y1="0" x2="650" y2="250" />
+  <!-- أكواد الشل والباينري المتحركة بسرعة في الخلفية -->
+  <g>
+    <text x="50" y="0" class="code-stream stream-1">01011001 01101111 01110101 01001000 cve-2026-exploited</text>
+    <text x="250" y="0" class="code-stream stream-2">kmohamee667:~$ ./exploit_payload.sh --bypass-waf</text>
+    <text x="600" y="0" class="code-stream stream-3">FF:FF:FF:FF:FF:FF &gt; ARP Spoofing Active...</text>
+    <text x="780" y="0" class="code-stream stream-4">HTTP/1.1 200 OK - Connection: Keep-Alive</text>
+    
+    <text x="120" y="30" class="code-stream stream-3">git commit -m "Fix critical security vulnerability"</text>
+    <text x="450" y="10" class="code-stream stream-4">docker run -d -p 8080:80 secure-web-app:latest</text>
+    <text x="30" y="50" class="code-stream stream-2">SUCCESS: Access Granted. Tokens generated.</text>
+    <text x="700" y="20" class="code-stream stream-1">SELECT * FROM users WHERE role = 'admin';</text>
   </g>
 
-  <!-- رموز الكود البرمجية المتناثرة في الخلفية -->
-  <text x="20" y="30" class="bg-code-text">&lt;div class="dev"&gt;</text>
-  <text x="700" y="40" class="bg-code-text">01011010</text>
-  <text x="40" y="230" class="bg-code-text">kmohamee667:~$ ./exploit</text>
-  <text x="680" y="220" class="bg-code-text">&lt;/div&gt;</text>
-
-  <!-- طبقة النص الرسمي الممركز في المنتصف -->
-  <g transform="translate(400, 125)">
+  <!-- طبقة النص الرسمي الممركز بدقة -->
+  <g transform="translate(450, 125)">
     <text class="name-text-base drawing-layer">WELCOME TO MY REPOSITORY</text>
   </g>
 </svg>
