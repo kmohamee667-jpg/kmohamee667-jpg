@@ -2,8 +2,7 @@
 
 <!-- الهيدر المتحرك بالأمواج البحرية ورسم الاسم -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kmohamee667-jpg/kmohamee667-jpg/blob/main/ocean-waves.svg" alt="Khalid Mohamed Animated Header" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/kmohamee667-jpg/kmohamee667-jpg/main/ocean-waves.svg" alt="Khalid Mohamed Animated Header" width="100%" /></p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Web+Penetration+Tester;Kali+Linux+User;Securing+the+Web..." alt="Typing SVG" />
