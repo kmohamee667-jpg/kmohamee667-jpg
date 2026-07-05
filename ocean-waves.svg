@@ -1,76 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
   <style>
-    /* خلفية زرقاء بحرية */
+    /* خلفية برمجية داكنة */
     .bg {
-      fill: #00334e;
+      fill: #0a0f1d;
     }
 
-    /* أنيميشن حركة الأمواج */
-    @keyframes waveMove {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
+    /* تأثير نبض شبكة الكود الخلفية */
+    @keyframes gridPulse {
+      0%, 100% { opacity: 0.15; }
+      50% { opacity: 0.3; }
     }
 
-    .wave {
-      animation: waveMove 12s linear infinite;
-      fill: #004466;
-      opacity: 0.6;
+    .code-grid {
+      stroke: #39FF14;
+      stroke-width: 0.5;
+      animation: gridPulse 4s ease-in-out infinite;
     }
 
-    .wave-mid {
-      animation: waveMove 8s linear infinite;
-      fill: #005577;
-      opacity: 0.4;
+    /* نص برمجي خلفي متحرك */
+    .bg-code-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      fill: #39FF14;
+      opacity: 0.1;
     }
 
-    .wave-front {
-      animation: waveMove 5s linear infinite;
-      fill: #006688;
-      opacity: 0.3;
-    }
-
-    /* أنيميشن الاسم */
+    /* أنيميشن النص الأساسي */
     .name-text-base {
       font-family: 'Poppins', 'Segoe UI', sans-serif;
       font-weight: 800;
-      font-size: 70px;
+      font-size: 52px;
       text-anchor: middle;
       dominant-baseline: middle;
-      letter-spacing: 2px;
+      letter-spacing: 4px;
     }
 
     .drawing-layer {
       fill: transparent;
-      stroke: #FFFFFF; /* لون أبيض ثلجي للكتابة */
+      stroke: #FFFFFF;
       stroke-width: 2;
-      stroke-dasharray: 1200;
-      stroke-dashoffset: 1200;
-      /* تم تغييرها إلى infinite لتتكرر إلى ما لا نهاية، بمدة إجمالية 10 ثوانٍ للدورة الواحدة */
-      animation: drawName 10s ease-in-out infinite;
+      stroke-dasharray: 1500;
+      stroke-dashoffset: 1500;
+      animation: drawName 9s ease-in-out infinite;
     }
 
     @keyframes drawName {
       0% {
-        stroke-dashoffset: 1200;
+        stroke-dashoffset: 1500;
         fill: transparent;
         stroke-width: 2;
       }
-      /* من 0% إلى 45% يتم رسم الحروف ببطء */
       45% {
         stroke-dashoffset: 0;
         fill: transparent;
         stroke-width: 2;
       }
-      /* من 55% إلى 85% يمتلئ باللون الأبيض ويظل ثابتاً ومقروءاً للمشاهد */
       55%, 85% {
         stroke-dashoffset: 0;
         fill: #FFFFFF;
         stroke-width: 0;
         opacity: 1;
       }
-      /* من 85% إلى 95% يختفي ببطء تمهيداً لإعادة الرسم من جديد */
       95%, 100% {
-        stroke-dashoffset: 1200;
+        stroke-dashoffset: 1500;
         fill: transparent;
         stroke-width: 0;
         opacity: 0;
@@ -78,22 +70,29 @@
     }
   </style>
 
-  <!-- الخلفية الثابتة -->
+  <!-- الخلفية الأساسية -->
   <rect class="bg" width="100%" height="100%"/>
 
-  <!-- مجموعات الأمواج المتحركة في الخلفية -->
-  <g>
-    <!-- الموجة الخلفية البطيئة -->
-    <path class="wave" d="M 0,160 Q 200,130 400,160 T 800,160 T 1200,160 T 1600,160 L 1600,250 L 0,250 Z" />
-    <!-- الموجة المتوسطة -->
-    <path class="wave-mid" d="M 0,180 Q 200,210 400,180 T 800,180 T 1200,180 T 1600,180 L 1600,250 L 0,250 Z" />
-    <!-- الموجة الأمامية السريعة -->
-    <path class="wave-front" d="M 0,200 Q 200,170 400,200 T 800,200 T 1200,200 T 1600,200 L 1600,250 L 0,250 Z" />
+  <!-- مصفوفة خطوط الديجيتال والبرمجة -->
+  <g class="code-grid">
+    <line x1="0" y1="50" x2="800" y2="50" />
+    <line x1="0" y1="100" x2="800" y2="100" />
+    <line x1="0" y1="150" x2="800" y2="150" />
+    <line x1="0" y1="200" x2="800" y2="200" />
+    <line x1="150" y1="0" x2="150" y2="250" />
+    <line x1="300" y1="0" x2="300" y2="250" />
+    <line x1="500" y1="0" x2="500" y2="250" />
+    <line x1="650" y1="0" x2="650" y2="250" />
   </g>
 
-  <!-- طبقة النص في المنتصف فوق الأمواج -->
-  <g transform="translate(400, 110)">
-    <!-- نص الرسم المتحرك اللانهائي -->
-    <text class="name-text-base drawing-layer">Hello My Friend !</text>
+  <!-- رموز الكود البرمجية المتناثرة في الخلفية -->
+  <text x="20" y="30" class="bg-code-text">&lt;div class="dev"&gt;</text>
+  <text x="700" y="40" class="bg-code-text">01011010</text>
+  <text x="40" y="230" class="bg-code-text">kmohamee667:~$ ./exploit</text>
+  <text x="680" y="220" class="bg-code-text">&lt;/div&gt;</text>
+
+  <!-- طبقة النص الرسمي الممركز في المنتصف -->
+  <g transform="translate(400, 125)">
+    <text class="name-text-base drawing-layer">WELCOME TO MY REPOSITORY</text>
   </g>
 </svg>
