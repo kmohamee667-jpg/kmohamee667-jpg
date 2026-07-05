@@ -13,26 +13,39 @@
 
 ### 👤 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <p align="left">
-        🚀 I am a <b>Full-Stack Web Developer</b> with a deep expertise in constructing high-performance digital platforms from the ground up. 
-      </p>
-      <p align="left">
-        🛡️ Parallel to building code, I operate as a <b>Web Penetration Tester</b>—leveraging <b>Kali Linux</b> and advanced network tools to audit, exploit, and bulletproof web applications against modern threat vectors.
-      </p>
-      <p align="left">
-        ⚡ <i>"Bridging the gap between clean architecture and defensive security."</i>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20SecOps-005577?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Focus" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Environment-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="OS" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🚀 Full-Stack Web Developer | 🛡️ Web Penetration Tester | 📚 Founder of Itqan Platform
+
+I build high-performance, secure digital platforms from the ground up. 
+I specialize in full-stack JavaScript architecture while auditing and hardening web applications against modern security threats using Kali Linux.
+
+<!-- Row 1 of Dual Badges -->
+<a href="https://github.com/kmohamee667-jpg" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-kmohamee667--jpg-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/kmohamee667-jpg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/kmohamee667-jpg" target="_blank">
+  <img src="https://img.shields.io/badge/Itqan%20Platform-Project-006688?style=flat-square&logo=react&logoColor=white" alt="Itqan" />
+</a>
+
+<br />
+
+<!-- Row 2 of Dual Badges -->
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+<!-- Profile Views Counter (Matches the bottom badge in image_0de600.png) -->
+<img src="https://badges.pufler.dev/visits/kmohamee667-jpg/kmohamee667-jpg?logo=github&label=PROFILE%20VIEWS&color=orange&style=flat-square" alt="Views" />
+
+</div>
+
+---
 
 ---
 ---
