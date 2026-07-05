@@ -1,38 +1,70 @@
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
-
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+# 👋 أهلاً بك، أنا خالد | Full-Stack Web Developer & Cyber Security Enthusiast
 
 <p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Web+Penetration+Tester;Kali+Linux+User;Securing+the+Web..." alt="Typing SVG" />
 </p>
 
+---
+
+### 👤 نبذة عني
+أنا مبرمج **Full-Stack Web Developer** وشغوف بمجال **الأمن السيبراني (Cyber Security)**. أركز على بناء تطبيقات ويب قوية، سريعة، وآمنة من الصفر، بالإضافة إلى عمل اختبارات اختراق وتأمين المواقع ضد الثغرات الأمنية باستخدام توزيعة **Kali Linux**.
+
+---
+
+### 🌐 تواصل معي
 <p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/your-username" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <a href="https://linkedin.com/in/your-username" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+---
+
+### 🛠️ المهارات والتقنيات (My Stack)
+
+#### 💻 تطوير الويب (Web Development)
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 </p>
+
+#### 🗄️ قواعد البيانات والأدوات (Databases & DevOps)
+<p align="left">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### 🛡️ الأمن السيبراني واختبار الاختراق (Cyber Security & Pentesting)
+<p align="left">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/Web_Pentesting-🔥-red?style=flat-square" alt="Web Pentesting" />
+    <img src="https://img.shields.io/badge/OWASP_Top_10-Shield-blue?style=flat-square" alt="OWASP" />
+</p>
+
+---
+
+### 📊 إحصائيات جيتهاب (GitHub Stats)
 
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary>⚡ اضغط هنا لعرض الإحصائيات</summary>
+<br />
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+    <br />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 </details>
+
+---
+
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/your-username/your-username?logo=GitHub&label=Visits&color=success&style=flat-square"/>
+    <img src="https://img.shields.io/github/last-commit/your-username/your-username?label=Last%20Updated&style=flat-square" alt="Last Commit" />
+</p>
