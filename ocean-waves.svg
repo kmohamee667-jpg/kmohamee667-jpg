@@ -94,6 +94,6 @@
   <!-- طبقة النص في المنتصف فوق الأمواج -->
   <g transform="translate(400, 110)">
     <!-- نص الرسم المتحرك اللانهائي -->
-    <text class="name-text-base drawing-layer">KHALID MOHAMED</text>
+    <text class="name-text-base drawing-layer">Hello My Friend !</text>
   </g>
 </svg>
