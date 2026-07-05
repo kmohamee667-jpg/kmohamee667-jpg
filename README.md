@@ -65,9 +65,11 @@ I am a passionate **Full-Stack Web Developer** deeply invested in **Cyber Securi
 <summary>⚡ Click to expand stats</summary>
 <br />
 <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kmohamee667-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
-    <br />
-    <img alt="Top Languages" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kmohamee667-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+    <!-- Combined Profile & Language Stats Card -->
+    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" />
+    <br /><br />
+    <!-- Stats Breakdown Card -->
+    <img alt="Stats Breakdown" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmohamee667-jpg&theme=tokyonight" />
 </p>
 </details>
 
