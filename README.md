@@ -12,8 +12,29 @@
 ---
 
 ### 👤 About Me
-I am a passionate **Full-Stack Web Developer** deeply invested in **Cyber Security**. I focus on building robust, fast, and secure web applications from scratch, as well as conducting penetration testing and securing web platforms against vulnerabilities using **Kali Linux**.
 
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p align="left">
+        🚀 I am a <b>Full-Stack Web Developer</b> with a deep expertise in constructing high-performance digital platforms from the ground up. 
+      </p>
+      <p align="left">
+        🛡️ Parallel to building code, I operate as a <b>Web Penetration Tester</b>—leveraging <b>Kali Linux</b> and advanced network tools to audit, exploit, and bulletproof web applications against modern threat vectors.
+      </p>
+      <p align="left">
+        ⚡ <i>"Bridging the gap between clean architecture and defensive security."</i>
+      </p>
+    </td>
+    <td width="35%" valign="center" align="center">
+      <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20SecOps-005577?style=for-the-badge&logo=codeclimate&logoColor=white" alt="Focus" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Environment-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="OS" />
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 ### 🌐 Connect With Me
