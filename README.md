@@ -67,7 +67,6 @@ I am a passionate **Full-Stack Web Developer** deeply invested in **Cyber Securi
 <p align="center">
     <!-- Combined Profile & Language Stats Card -->
     <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" />
-    <br /><br />
     <!-- Stats Breakdown Card -->
     <img alt="Stats Breakdown" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmohamee667-jpg&theme=tokyonight" />
 </p>
