@@ -64,12 +64,24 @@ I am a passionate **Full-Stack Web Developer** deeply invested in **Cyber Securi
 <details>
 <summary>⚡ Click to expand stats</summary>
 <br />
-<p align="center">
-    <!-- Combined Profile & Language Stats Card -->
-    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" />
-    <!-- Stats Breakdown Card -->
-    <img alt="Stats Breakdown" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmohamee667-jpg&theme=tokyonight" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- كارت تفاصيل الحساب واللغات -->
+      <td valign="top" width="50%">
+        <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmohamee667-jpg&theme=tokyonight" width="100%" />
+      </td>
+      <!-- الرسم البياني المتحرك (تأثير لعبة الثعبان النيون) -->
+      <td valign="top" width="50%">
+        <img alt="GitHub Activity Snake Animation" src="https://github-readme-activity-graph.vercel.app/graph?username=kmohamee667-jpg&theme=tokyonight&bg_color=121212" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  <!-- أنيميشن مساهمات الجرافيك المتحركة -->
+  <img src="https://raw.githubusercontent.com/kmohamee667-jpg/kmohamee667-jpg/output/github-contribution-grid-snake.svg" alt="GitHub Success Snake" width="100%" />
+</div>
 </details>
 
 ---
