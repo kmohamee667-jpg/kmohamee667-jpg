@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,15&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=b388ff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,15&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
 </div>
 
 ### :space_invader: &nbsp;About Me
@@ -11,9 +11,9 @@
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently building and deploying full-stack products and modern web platforms.
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:kmohamee667@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/khaled-mohamed-276222417/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kmohamee667-jpg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <hr/>
@@ -66,16 +66,16 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=9333ea&fire=a855f7&currStreakLabel=c084fc" />
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=kmohamee667-jpg&theme=tokyonight&hide_border=true&background=0D1117&ring=9333ea&fire=a855f7&currStreakLabel=ffffff" />
     </p>
     <p align="center">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&bg_color=0D1117&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" /> 
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=a855f7&text_color=e2e8f0" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kmohamee667-jpg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&bg_color=0D1117&title_color=ffffff&icon_color=a855f7&text_color=ffffff" /> 
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmohamee667-jpg&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=ffffff&text_color=ffffff" />
     </p>
 </details>
 
 <hr/>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8a2be2&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kmohamee667-jpg&style=flat-square&color=8a2be2&label=Profile+Views" alt="Profile Views" />
 </p>
