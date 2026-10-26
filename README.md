@@ -1,4 +1,70 @@
-<H2>Khaled Mohamed</H2>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 320"
+     width="1200" height="320">
+
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop offset="0%" stop-color="#160829"/>
+      <stop offset="100%" stop-color="#35105f"/>
+    </linearGradient>
+
+    <linearGradient id="wave1" x2="1" y2="0">
+      <stop stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x2="1" y2="0">
+      <stop stop-color="#6d28d9"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <g opacity=".75">
+    <path fill="url(#wave1)">
+      <animate attributeName="d"
+        dur="7s" repeatCount="indefinite"
+        values="
+        M0 180 Q300 100 600 180 T1200 180 V320 H0 Z;
+        M0 180 Q300 260 600 180 T1200 180 V320 H0 Z;
+        M0 180 Q300 100 600 180 T1200 180 V320 H0 Z"/>
+    </path>
+  </g>
+
+  <g opacity=".65">
+    <path fill="url(#wave2)">
+      <animate attributeName="d"
+        dur="9s" repeatCount="indefinite"
+        values="
+        M0 220 Q300 140 600 220 T1200 220 V320 H0 Z;
+        M0 220 Q300 290 600 220 T1200 220 V320 H0 Z;
+        M0 220 Q300 140 600 220 T1200 220 V320 H0 Z"/>
+    </path>
+  </g>
+
+  <text x="600" y="140"
+        text-anchor="middle"
+        font-family="Verdana, Arial, sans-serif"
+        font-size="64"
+        font-weight="bold"
+        fill="white">
+    Khaled Mohamed
+  </text>
+
+  <text x="600" y="177"
+        text-anchor="middle"
+        font-family="Verdana, Arial, sans-serif"
+        font-size="13"
+        letter-spacing="5"
+        fill="#e9d5ff">
+    CREATIVE • PERSONAL • UNIQUE
+  </text>
+</svg>
+
 
 ### :space_invader: &nbsp;About Me
 
