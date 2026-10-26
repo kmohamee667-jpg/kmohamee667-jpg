@@ -1,4 +1,10 @@
 
+<div align="center">
+  <img src="./waves.svg" width="100%" alt="Khaled Mohamed"/>
+</div>
+
+<br/>
+
 
 ### :space_invader: &nbsp;About Me
 
