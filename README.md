@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,15&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b1055,7522e6,9d4edd&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/></div>
 
 ### :space_invader: &nbsp;About Me
 
