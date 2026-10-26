@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b1055,7522e6,9d4edd&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/></div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3a0ca3,7209b7,b5179e&height=200&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Full-Stack Web Developer passionate about building fast, scalable, and responsive web applications.\
