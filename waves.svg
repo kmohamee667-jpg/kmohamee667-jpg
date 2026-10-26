@@ -1,16 +1,44 @@
 
-<div align="center">
-  <img src="https://YOUR-USERNAME.github.io/YOUR-REPO/waves.svg"
-       width="100%"
-       alt="Khaled Mohamed - Animated Purple Waves"/>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#160829"/>
+      <stop offset="1" stop-color="#35105f"/>
+    </linearGradient>
+    <linearGradient id="purple">
+      <stop stop-color="#a855f7"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
 
-<br/>
+  <rect width="1200" height="320" fill="url(#bg)"/>
 
-### :space_invader: &nbsp;About Me
+  <path fill="url(#purple)" opacity=".7">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0 190 Q300 100 600 190 T1200 190 V320 H0Z;
+      M0 190 Q300 270 600 190 T1200 190 V320 H0Z;
+      M0 190 Q300 100 600 190 T1200 190 V320 H0Z"/>
+  </path>
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Full-Stack Web Developer passionate about building fast, scalable, and responsive web applications.\
-&nbsp;&nbsp;&nbsp; :rocket: &nbsp;Specialized in modern JavaScript/TypeScript ecosystems across frontend and backend.\
-&nbsp;&nbsp;&nbsp; :bulb: &nbsp;Always eager to learn new architectures, clean code patterns, and modern web tools.\
-&nbsp;&nbsp;&nbsp; :closed_lock_with_key: &nbsp;Interested in web security, database optimization, and scalable cloud solutions.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently building and deploying full-stack products and modern web platforms.
+  <path fill="#9333ea" opacity=".55">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0 230 Q300 150 600 230 T1200 230 V320 H0Z;
+      M0 230 Q300 300 600 230 T1200 230 V320 H0Z;
+      M0 230 Q300 150 600 230 T1200 230 V320 H0Z"/>
+  </path>
+
+  <text x="600" y="145" text-anchor="middle"
+        font-family="Verdana,Arial,sans-serif"
+        font-size="64" font-weight="bold" fill="#fff">
+    Khaled Mohamed
+  </text>
+
+  <text x="600" y="178" text-anchor="middle"
+        font-family="Verdana,Arial,sans-serif"
+        font-size="13" letter-spacing="5" fill="#e9d5ff">
+    CREATIVE • PERSONAL • UNIQUE
+  </text>
+</svg>
