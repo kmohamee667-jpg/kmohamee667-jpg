@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=10002b,240046,3c096c,5a189a,7b2cbf&height=220&section=header&text=Khaled%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=65&descAlign=50&v=2" width="100%"/>
-</div>
+
 
 ### :space_invader: &nbsp;About Me
 
