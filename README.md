@@ -1,4 +1,4 @@
-# Khalid Mohamed
+# Khaled Mohamed
 **Full-Stack Software Engineer & Cyber Security Specialist**
 
 Passionate software engineer focused on building secure, scalable, and resilient web architectures. Experienced in full-stack JavaScript environments alongside proactive security auditing, vulnerability assessment, and threat modeling.
